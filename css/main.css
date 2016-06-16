@@ -1,0 +1,50 @@
+body {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: 300;
+	background: url("../img/background.png");
+	width: 100%;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/*top navigation*/
+
+/*Header*/
+
+main h1 {
+	font-family: 'Teko', sans-serif;
+	font-size: 120px;
+	font-weight: 300;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+}
+
+main header p {
+	font-size: 26px;
+	opacity: .7;
+}
+
+main>p{
+	font-size: 16px;
+	opacity: .5;
+}
+
+/*social media*/
+aside h2 {
+	font-family: 'Teko', sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing: .075em;
+}
+
+aside>p{
+	font-family: 'Titillium', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	opacity: .50;
+}
